@@ -1,0 +1,8 @@
+- 显卡MSI RX 570 8G ARMOR: 11000~13000
+- 主板ASRock H310CM-HDV: 6500~7500
+- CPU i5-8400: 11000~12000
+- 電源 玄人志向 NEXT 80 PLUS 500W: 3000
+- SSD crucial ct450 500G: 4000~5000
+- memory crucial ddr4-2666 8GX2: 4500~5000
+
+Total(minimum): 40,000
