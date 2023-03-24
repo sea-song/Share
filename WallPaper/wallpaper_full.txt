@@ -1,0 +1,41 @@
+
+
+
+  
+  
+  
+  
+  
+  
+                                                        from life import dead, tired
+
+                                                        def Again():
+                                                            listen("この思いを消してしまうには　まだ人生長いでしょ？")
+                                                            print("もう引き返せない　物語　始まってるんだ")
+                                                            return True
+
+                                                        def goDeeper():
+                                                            if dead == True:
+                                                                return
+                                                            if tired == True:
+                                                                rest()
+                                                                if Again():
+                                                                  print("目を覚ませ")
+                                                                  tried = False
+
+                                                            goDeeper()
+
+                                                        if __name__ == '__main__':
+                                                            goDeeper()
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+color: D0DCAA
