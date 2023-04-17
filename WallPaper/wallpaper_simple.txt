@@ -1,0 +1,35 @@
+
+
+
+  
+  
+  
+  
+  
+  
+                                                                from life import tired
+
+                                                                def Again():
+                                                                    restAndListen()
+                                                                    print('目を覚ませ')
+																	return True
+            
+                                                                def goDeeper():
+                                                                    if tired == True:
+                                                                        tired = not Again()
+
+                                                                    goDeeper()
+
+                                                                if __name__ == '__main__':
+                                                                    goDeeper()
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
